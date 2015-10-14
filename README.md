@@ -1,7 +1,8 @@
-# CheckDND-Lib
+# CheckDND-Lib :
 This library gives you a very simple object oriented API for checking DND status of any Indian mobile number.
 
-# Example :
+### Example :
+```py
 
 from DndLib import DND
 
@@ -14,3 +15,5 @@ elif(status=='N'):
 elif(status==1):
   print "Connection Problems"
   
+  ```
+
