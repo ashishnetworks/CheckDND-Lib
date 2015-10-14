@@ -2,7 +2,7 @@ from DndLib import DND
 import sys
 
 sample=DND()
-v=sample.check(sys.argv[1])
+v=sample.check('9876543210')
 if(v=='Y'):
     print "DND Registered Number"
 elif(v=='N'):
