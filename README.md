@@ -16,4 +16,12 @@ elif(status==1):
   print "Connection Problems"
   
   ```
+### Dependencies
 
+####### You must have have following three libraries installed in in your Python environment
+
+* requests
+* json
+* sys
+
+In most python setups they are installed by default so probably you would not need to worry about them
