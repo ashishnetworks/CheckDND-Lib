@@ -1,5 +1,4 @@
 from CheckDnd import DND
-import sys
 
 sample=DND()
 v=sample.check('9876543210')
