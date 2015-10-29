@@ -1,4 +1,4 @@
-# CheckDND-Lib :
+# CheckDnd Library :
 This library gives you a very simple object oriented API for checking DND status of any Indian mobile number.
 
 ### Example :
