@@ -4,7 +4,7 @@ This library gives you a very simple object oriented API for checking DND status
 ### Example :
 ```py
 
-from DndLib import DND
+from CheckDnd import DND
 
 obj = DND()
 status = obj.check('9876543210')
