@@ -1,7 +1,13 @@
 from CheckDnd import DND
+import sys
 
 sample=DND()
-v=sample.check('9876543210')
+
+if len(sys.argv)>=2:
+  v=sample.check(sys.argv[1])
+else:
+  v=sample.check('9876543210')
+
 if(v=='Y'):
     print "DND Registered Number"
 elif(v=='N'):

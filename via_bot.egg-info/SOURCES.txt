@@ -1,0 +1,8 @@
+setup.py
+via_bot.egg-info/PKG-INFO
+via_bot.egg-info/SOURCES.txt
+via_bot.egg-info/dependency_links.txt
+via_bot.egg-info/not-zip-safe
+via_bot.egg-info/pbr.json
+via_bot.egg-info/requires.txt
+via_bot.egg-info/top_level.txt
