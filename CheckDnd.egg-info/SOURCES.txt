@@ -1,8 +1,0 @@
-setup.py
-CheckDnd.egg-info/PKG-INFO
-CheckDnd.egg-info/SOURCES.txt
-CheckDnd.egg-info/dependency_links.txt
-CheckDnd.egg-info/not-zip-safe
-CheckDnd.egg-info/pbr.json
-CheckDnd.egg-info/requires.txt
-CheckDnd.egg-info/top_level.txt
